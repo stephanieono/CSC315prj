@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_demo
 
 A new Flutter project.
@@ -19,3 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 ![login_Screen](assets/screenshots/login_Screen.png)
 ![registration_Screen](assets/screenshots/registration_screen.png)
 ![forgot_Password](assets/screenshots/forgot_screen.png)
+=======
+# CSC315prj
+>>>>>>> e8efdcc8efab1e00d66fd7e4c2b33f6beb243083
